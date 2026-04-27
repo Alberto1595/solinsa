@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante
+  xmlns:cfdi="http://www.sat.gob.mx/cfd/4"
+  Total="15400.00"
+  Fecha="2025-04-26"
+  Folio="001"
+  Serie="TRF">
+  <cfdi:Receptor
+    Nombre="Empresa ABC S.A. de C.V."
+    Rfc="ABC010101ABC"
+    UsoCFDI="G03"/>
+</cfdi:Comprobante>

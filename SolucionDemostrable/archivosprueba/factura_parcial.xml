@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante
+  xmlns:cfdi="http://www.sat.gob.mx/cfd/4"
+  Total="8000.00"
+  Fecha="2025-04-26"
+  Folio="002"
+  Serie="TRF">
+  <cfdi:Receptor
+    Nombre="Grupo XYZ Comercial"
+    Rfc="GXY020202GXY"
+    UsoCFDI="G03"/>
+</cfdi:Comprobante>
